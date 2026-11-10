@@ -1,17 +1,15 @@
-# dolores_rally
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="2400" height="2376" alt="15_SUITE_COMPLETA" src="https://github.com/user-attachments/assets/d75dabba-3410-468b-8913-f03f21111113" />
+<img width="2400" height="682" alt="14_ronda10_VERDE" src="https://github.com/user-attachments/assets/47f3cf4d-73a9-4dc0-9219-17e585f99b86" />
+<img width="2400" height="770" alt="13_ronda10_ROJO" src="https://github.com/user-attachments/assets/c100da22-3170-48b0-be0b-8c9c35a82c69" />
+<img width="2400" height="726" alt="12_ronda7_VERDE" src="https://github.com/user-attachments/assets/be744e71-f75d-4af7-8cf3-744c9000ac50" />
+<img width="2400" height="856" alt="11_ronda7_ROJO" src="https://github.com/user-attachments/assets/1a39387e-733e-4f81-ad90-91aa09d11e7e" />
+<img width="2400" height="508" alt="10_ronda6_VERDE" src="https://github.com/user-attachments/assets/6c9f346f-11f9-4f60-b9fb-682e1e6680fe" />
+<img width="2400" height="856" alt="09_ronda6_ROJO" src="https://github.com/user-attachments/assets/15114a10-8f3b-48d1-8042-1fe80fb36e38" />
+<img width="2400" height="596" alt="08_ronda5_VERDE" src="https://github.com/user-attachments/assets/af63b31c-813d-440b-86d8-98abf43c5588" />
+<img width="2400" height="770" alt="07_ronda5_ERROR_manual" src="https://github.com/user-attachments/assets/e26b7a97-6c50-470a-b48d-edd454fb6a09" />
+<img width="2400" height="856" alt="06_ronda5_ROJO" src="https://github.com/user-attachments/assets/4c7dc661-c3e3-4f92-b8e1-1213197ed2d9" />
+<img width="2400" height="508" alt="05_ronda4_VERDE" src="https://github.com/user-attachments/assets/43a0099f-c23d-4166-b656-fa9fc2314afe" />
+<img width="2400" height="856" alt="04_ronda4_ROJO" src="https://github.com/user-attachments/assets/ea019ef6-058c-46b8-95b9-450a2c1d432b" />
+<img width="2400" height="596" alt="03_ronda2_VERDE" src="https://github.com/user-attachments/assets/2d41cf8a-23e9-4d66-a3e7-e6ddccec2676" />
+<img width="2400" height="770" alt="02_ronda2_ERROR_manual" src="https://github.com/user-attachments/assets/0cdf5c7c-2ea2-4898-a189-eef433192cf0" />
+<img width="2400" height="856" alt="01_ronda2_ROJO" src="https://github.com/user-attachments/assets/f459fba6-e46e-4bc5-9840-91e80b77ff40" />
