@@ -1,15 +1,18 @@
-<img width="2400" height="2376" alt="15_SUITE_COMPLETA" src="https://github.com/user-attachments/assets/d75dabba-3410-468b-8913-f03f21111113" />
-<img width="2400" height="682" alt="14_ronda10_VERDE" src="https://github.com/user-attachments/assets/47f3cf4d-73a9-4dc0-9219-17e585f99b86" />
-<img width="2400" height="770" alt="13_ronda10_ROJO" src="https://github.com/user-attachments/assets/c100da22-3170-48b0-be0b-8c9c35a82c69" />
-<img width="2400" height="726" alt="12_ronda7_VERDE" src="https://github.com/user-attachments/assets/be744e71-f75d-4af7-8cf3-744c9000ac50" />
-<img width="2400" height="856" alt="11_ronda7_ROJO" src="https://github.com/user-attachments/assets/1a39387e-733e-4f81-ad90-91aa09d11e7e" />
-<img width="2400" height="508" alt="10_ronda6_VERDE" src="https://github.com/user-attachments/assets/6c9f346f-11f9-4f60-b9fb-682e1e6680fe" />
-<img width="2400" height="856" alt="09_ronda6_ROJO" src="https://github.com/user-attachments/assets/15114a10-8f3b-48d1-8042-1fe80fb36e38" />
-<img width="2400" height="596" alt="08_ronda5_VERDE" src="https://github.com/user-attachments/assets/af63b31c-813d-440b-86d8-98abf43c5588" />
-<img width="2400" height="770" alt="07_ronda5_ERROR_manual" src="https://github.com/user-attachments/assets/e26b7a97-6c50-470a-b48d-edd454fb6a09" />
-<img width="2400" height="856" alt="06_ronda5_ROJO" src="https://github.com/user-attachments/assets/4c7dc661-c3e3-4f92-b8e1-1213197ed2d9" />
-<img width="2400" height="508" alt="05_ronda4_VERDE" src="https://github.com/user-attachments/assets/43a0099f-c23d-4166-b656-fa9fc2314afe" />
-<img width="2400" height="856" alt="04_ronda4_ROJO" src="https://github.com/user-attachments/assets/ea019ef6-058c-46b8-95b9-450a2c1d432b" />
-<img width="2400" height="596" alt="03_ronda2_VERDE" src="https://github.com/user-attachments/assets/2d41cf8a-23e9-4d66-a3e7-e6ddccec2676" />
-<img width="2400" height="770" alt="02_ronda2_ERROR_manual" src="https://github.com/user-attachments/assets/0cdf5c7c-2ea2-4898-a189-eef433192cf0" />
-<img width="2400" height="856" alt="01_ronda2_ROJO" src="https://github.com/user-attachments/assets/f459fba6-e46e-4bc5-9840-91e80b77ff40" />
+
+
+<img width="2400" height="630" alt="13_ronda10_ROJO" src="https://github.com/user-attachments/assets/dfef1f8f-903b-4b32-af9a-831e4e11a1b1" />
+<img width="2400" height="586" alt="12_ronda7_VERDE" src="https://github.com/user-attachments/assets/d4648306-9feb-46c0-8d59-8db3e1971c28" />
+<img width="2400" height="716" alt="11_ronda7_ROJO" src="https://github.com/user-attachments/assets/bcaf4567-cf67-4a56-9626-eb5b9dffad7d" />
+<img width="2400" height="400" alt="10_ronda6_VERDE" src="https://github.com/user-attachments/assets/3abc66cc-273d-4f8c-a148-7d2894af09a8" />
+<img width="2400" height="716" alt="09_ronda6_ROJO" src="https://github.com/user-attachments/assets/546d6250-9406-49ec-b217-25a2f31ea319" />
+<img width="2400" height="456" alt="08_ronda5_VERDE" src="https://github.com/user-attachments/assets/57279239-fad6-4115-a156-4e804d7f02ef" />
+<img width="2400" height="630" alt="07_ronda5_ERROR_manual" src="https://github.com/user-attachments/assets/0aa4c682-c070-469a-a8b5-253233c0c652" />
+<img width="2400" height="716" alt="06_ronda5_ROJO" src="https://github.com/user-attachments/assets/9bf83f7f-32ae-4572-b2c7-75ad7149f273" />
+<img width="2400" height="400" alt="05_ronda4_VERDE" src="https://github.com/user-attachments/assets/d075236b-b1a2-4e3e-b60e-4a1a273690df" />
+<img width="2400" height="716" alt="04_ronda4_ROJO" src="https://github.com/user-attachments/assets/0d2f6f36-887d-42d8-adeb-78c3892a6bc7" />
+<img width="2400" height="456" alt="03_ronda2_VERDE" src="https://github.com/user-attachments/assets/acffa486-6ef8-477e-8cb9-52449cec6b19" />
+<img width="2400" height="630" alt="02_ronda2_ERROR_manual" src="https://github.com/user-attachments/assets/4ee5d907-99a4-49d5-a7d9-5390bd56bf38" />
+<img width="2400" height="716" alt="01_ronda2_ROJO" src="https://github.com/user-attachments/assets/8a2486cd-9ae1-4f80-b35f-e27dfe9aab1d" />
+<img width="2400" height="2240" alt="15_SUITE_COMPLETA" src="https://github.com/user-attachments/assets/8efc46bd-fb47-418e-9813-f124f13f2311" />
+<img width="2400" height="542" alt="14_ronda10_VERDE" src="https://github.com/user-attachments/assets/a623586d-bade-446e-9efc-ae489af69a8e" />
+
